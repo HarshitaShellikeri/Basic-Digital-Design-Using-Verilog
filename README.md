@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains the Verilog HDL implementation and simulation of basic combinational logic circuits as part of **Task-2** of the VLSI Internship. The project demonstrates the design, testing, and simulation of fundamental digital circuits using RTL modeling in Verilog.
+This repository contains the Verilog HDL implementation and simulation of basic combinational logic circuits as part of the VLSI Project. The project demonstrates the design, testing, and simulation of fundamental digital circuits using RTL modeling in Verilog.
 
 ---
 
